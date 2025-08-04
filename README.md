@@ -45,7 +45,7 @@ ContentIntel consolidates content analytics, AI-driven keyword and topic suggest
 ### Setup
 
 As a fully hosted SaaS solution:  
-1. Sign up for a ContentIntel account at [www.contentintel.example.com](https://www.contentintel.example.com).  
+1. Sign up for a ContentIntel account at [www.logiai.tech](https://www.logiai.tech).  
 2. Connect your content channels and tools via the user dashboard.  
 3. Begin analyzing, auditing, and optimizing your content immediately.  
 
@@ -83,8 +83,7 @@ ContentIntel offers flexible billing options for individual users:
 ## Support
 
 Contact us via:  
-- Email: support@contentintel.example.com  
-- Help docs: [docs.contentintel.example.com](https://docs.contentintel.example.com)  
+- Email: support@contentintel.com
 
 ---
 
